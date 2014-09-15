@@ -13,6 +13,6 @@
  */
 public class Clone {
     public void test(){
-        System.out.println("Clone");
+        System.out.println("Clon斯蒂芬e");
     }
 }
