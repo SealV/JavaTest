@@ -19,7 +19,8 @@ public  class Test extends Date{
 
 	public void test(){
 		System.out.println(super.getClass().getCanonicalName());
-	}
+        System.out.println("test 2");
+    }
 }
 
 
